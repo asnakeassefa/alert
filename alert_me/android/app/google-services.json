@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947949091447",
+    "project_id": "alert-2380c",
+    "storage_bucket": "alert-2380c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947949091447:android:3d1f74528988e13b1a2472",
+        "android_client_info": {
+          "package_name": "com.alerme.emergency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLrLhFFn-7A9bYeNThFPkI9-QgJHNj04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
